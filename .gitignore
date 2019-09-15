@@ -1,0 +1,5 @@
+*static/
+*libaray_manage_system/__pycache__/
+*library_app/__pycache__/
+*library_app/migrations/
+*wsgi.*
